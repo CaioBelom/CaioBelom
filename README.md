@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Caio Augusto Belom, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Cólegio Estrela Sirius. Atualmente, estou cursando Ciência da Computação na Universidade Presbiteriana Mackenie.
+Me chamo Caio Augusto Ferreira Belom, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Cólegio Estrela Sirius. Atualmente, estou cursando Ciência da Computação na Universidade Presbiteriana Mackenie.
 
 ---
 
