@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👨‍💻 Caio Belom
 
-<!--
-**CaioBelom/CaioBelom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor BackEnd`**
 
-Here are some ideas to get you started:
+Me chamo Caio Augusto Belom, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Cólegio Estrela Sirius. Atualmente, estou cursando Ciência da Computação na Universidade Presbiteriana Mackenie.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px"
+    src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000](https://icons8.com.br/icons/set/c-programming)"
+/>
