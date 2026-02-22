@@ -25,8 +25,3 @@ Me chamo Caio Augusto Ferreira Belom, tenho 18 anos e sou natural de São Paulo.
     width="30px"
     src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000](https://icons8.com.br/icons/set/c-programming)"
 />
-
-
-
-
-### Front-end
