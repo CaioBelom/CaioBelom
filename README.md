@@ -8,6 +8,8 @@ Me chamo Caio Augusto Ferreira Belom, tenho 18 anos e sou natural de São Paulo.
 
 ### 🤖 Linguagens e Tecnologias
 
+### 🤖 Back-end
+
 <img 
     align="left" 
     alt="Python" 
