@@ -25,6 +25,13 @@ Me chamo Caio Augusto Ferreira Belom, tenho 18 anos e sou natural de São Paulo.
     width="30px" 
     src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000](https://icons8.com.br/icons/set/c-programming)" />
 
+
+<img align="left" 
+    alt="Javca" 
+    title="Java" 
+    width="30px" 
+    src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
+
 <br clear="left"/>
 
 ---
@@ -34,6 +41,15 @@ Me chamo Caio Augusto Ferreira Belom, tenho 18 anos e sou natural de São Paulo.
 ---
 
 ### Banco de Dados
+
+<img 
+  align="left" 
+  alt="Python" 
+  title="Python"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" 
+/>
 
 
 
