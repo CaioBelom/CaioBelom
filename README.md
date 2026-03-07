@@ -34,9 +34,11 @@ Me chamo Caio Augusto Ferreira Belom, tenho 18 anos e sou natural de São Paulo.
 
 <br clear="left"/>
 
+
 ---
 
 ### Front-end
+<br>
 
 ---
 
@@ -51,5 +53,12 @@ Me chamo Caio Augusto Ferreira Belom, tenho 18 anos e sou natural de São Paulo.
   src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" 
 />
 
+<br>
 
+---
+
+### Entre em contato comigo! 📭
+<div>
+<a href="https://www.linkedin.com/in/caiobelom/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
